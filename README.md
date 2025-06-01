@@ -54,7 +54,7 @@ Creative Tools Hub offers a diverse collection of utilities to enhance your prod
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js 14
+- **Framework**: Next.js 15
 - **UI Library**: React 18
 - **Styling**: TailwindCSS
 - **Animations**: Framer Motion
